@@ -10,11 +10,11 @@
 - ### Copy & Run :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/APIs-Explorer-Cloud-SQL-GSP423/refs/heads/main/QWIKLAB_EXPLORERS_GSP423.sh
+curl -LO raw.githubusercontent.com/Titash-shil/APIs-Explorer-Create-and-Update-a-Cluster-GSP288/refs/heads/main/Qwiklab_explorers_gsp288.sh
 
-sudo chmod +x QWIKLAB_EXPLORERS_GSP423.sh
+sudo chmod +x Qwiklab_explorers_gsp288.sh
 
-./QWIKLAB_EXPLORERS_GSP423.sh
+./Qwiklab_explorers_gsp288.sh
 ```
 
 ---
