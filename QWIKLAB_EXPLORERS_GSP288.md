@@ -1,4 +1,4 @@
-# || APIs Explorer: Create and Update a Cluster [GSP288](https://www.cloudskillsboost.google/games/5703/labs/36451) ||
+# APIs Explorer: Create and Update a Cluster || [GSP288](https://www.cloudskillsboost.google/focuses/3332?parent=catalog) ||
 
 ## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
@@ -25,6 +25,6 @@ sudo chmod +x Qwiklab_explorers_gsp288.sh
 
 ## Thank you for visiting.... :) 🗯️
 
-## [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN)
+## [Qwiklab_Explorers](https://youtube.com/@qwiklabexplorers?si=QGN7mY2Sn9iobmuz)
 
-## Join to our community [Digital Dominators](https://chat.whatsapp.com/J0o1beFGCHfJ8ZHGKjcqkd)
+## Join to our community [Digital Dominators](https://linktr.ee/digital_dominators)
